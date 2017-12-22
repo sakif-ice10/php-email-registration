@@ -1,0 +1,8 @@
+li{
+  list-style: none;
+}
+
+.notice{
+  font-style: italic;
+  color: red;
+}
